@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+undo_log.json
+*.exe
+dist/
+build/
